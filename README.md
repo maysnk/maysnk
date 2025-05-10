@@ -1,5 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8cc7d6&height=100&section=header"/>
 <h1 align= "center">
-    Welcome to May's Github <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+    Hello! Welcome to May's Github <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 </h1>
 
 #### Hi! I'm May!
@@ -14,7 +15,7 @@ I'm currently an Information Systems student, passionate about technology and in
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
-#### About me:
+### About me:
 - ☕️ 20 years / BR
 - 💻 Front-end Dev
 - ⚙️ Focused on studying and always being ahead.
@@ -27,11 +28,11 @@ I'm currently an Information Systems student, passionate about technology and in
     <img align="center" alt="JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img align="center" alt="PY" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="center" alt="PYCH" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-          
+    <img align="center" alt="GIT" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
+    
 </div>
-
-***
 
 ### What you'll find here:
 - 💾 My future projects and code snippets.
 - 🔩 Updates on my progress ad new skills acquired.
+
