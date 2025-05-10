@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Datas
 
 on:
   schedule: # execute every 10 hours
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Generate GitHub contribution snake
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: maysnk
