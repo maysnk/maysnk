@@ -6,7 +6,7 @@
 I am currently a student of Information Systems, passionate about technology and innovation, motivated to learn, grow and contribute with dedication and creativity, always studying to achieve new goals. </h4>
 
 
-<p align="center"> <br>
+<p> <br>
     <a href= "mailto:iidealmay@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href= "https://www.linkedin.com/in/mayara-alves1/" target="_blank">
@@ -51,10 +51,9 @@ I am currently a student of Information Systems, passionate about technology and
 - 💾 My future projects and code snippets.
 - 🔩 Updates on my progress ad new skills acquired.
 
-#
-
+#  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maysnk/maysnk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maysnk/maysnk/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maysnk/maysnk/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/maysnk/output/github-contribution-grid-snake.svg">
 </picture>
