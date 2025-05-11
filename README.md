@@ -31,14 +31,7 @@ I am currently a student of Information Systems, passionate about technology and
     <img align="center" alt="PY" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="center" alt="PYCH" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
     <img align="center" alt="GIT" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
-
-#
-
 </div>
-
-### What you'll find here:
-- 💾 My future projects and code snippets.
-- 🔩 Updates on my progress ad new skills acquired.
   
 #
 
@@ -51,6 +44,12 @@ I am currently a student of Information Systems, passionate about technology and
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maysnk&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+
+#
+
+### What you'll find here:
+- 💾 My future projects and code snippets.
+- 🔩 Updates on my progress ad new skills acquired.
 
 #
 
