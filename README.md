@@ -36,4 +36,4 @@ I'm currently an Information Systems student, passionate about technology and in
 - 💾 My future projects and code snippets.
 - 🔩 Updates on my progress ad new skills acquired.
 
-![Snake animation](https://github.com/maysnk/maysnk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Amanda-Jr/Amanda-Jr/blob/output/github-contribution-grid-snake.svg)
