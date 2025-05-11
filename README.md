@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8cc7d6&height=100&section=header"/>
 <h1 align= "center">
     Hello! Welcome to May's Github <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 </h1>
