@@ -16,8 +16,8 @@ I am currently a student of Information Systems, passionate about technology and
 </p>
 
 ### About me:
-- ☕️ 20 years / BR
-- 💻 Front-end Dev
+- ☕️ 21 years / BR
+- 💻 Technology student
 - ⚙️ Focused on studying and always being ahead.
   
 #
