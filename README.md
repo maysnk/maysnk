@@ -7,8 +7,6 @@ I am currently a student of Information Systems, passionate about technology and
 
 
 <p> <br>
-    <a href= "mailto:iidealmay@gmail.com?subject=Contato&body=Olá, vim pelo seu site!" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href= "https://www.linkedin.com/in/mayara-alves1/" target="_blank">
         <img src="https://img.shields.io/badge/-Linkedin-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href= "https://www.instagram.com/mayzfw/" target="_blank">
