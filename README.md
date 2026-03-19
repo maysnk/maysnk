@@ -9,7 +9,7 @@ I am currently a student of Information Systems, passionate about technology and
 <p> <br>
     <a href= "https://www.linkedin.com/in/mayara-alves1/" target="_blank">
         <img src="https://img.shields.io/badge/-Linkedin-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href= "https://www.instagram.com/mayzfw/" target="_blank">
+    <a href= "https://www.instagram.com/mayzzff/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
